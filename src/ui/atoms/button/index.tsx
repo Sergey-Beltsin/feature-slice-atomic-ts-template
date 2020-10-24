@@ -9,6 +9,7 @@ interface ButtonProps {
 export const Button: React.FC<ButtonProps> = ({ onClick, label, children }) => {
   return (
     <button
+      data-testid='button'
       className='button'
       aria-label={label}
       onClick={onClick}

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<button
+  aria-label="simple button"
+  className="button"
+  data-testid="button"
+  onClick={[Function]}
+>
+  Hi, I'm test button
+</button>
+`;
