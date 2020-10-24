@@ -1,0 +1,1 @@
+export { CounterPage as Counter } from './containers/counter';
